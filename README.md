@@ -43,7 +43,8 @@ Web arayüzü şu şekildedir:
 ```
 <form method="POST">
     YouTube Video URL: <input type="text" name="url">
-    <input type="submit" value="Convert to MP3">
+    <input background-color=#d1d1d1; type="submit" value="Convert to MP3">
+    
 </form>
 
 Kullanıcı, YouTube video URL'sini girip "Convert to MP3" butonuna tıkladığında video indirilir, ses dosyası MP3 formatına dönüştürülür ve işlem tamamlandığında kullanıcıya bir mesaj gösterilir.
