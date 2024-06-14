@@ -27,9 +27,9 @@ python main.py
 - Dönüştürme işlemi tamamlandıktan sonra sonuç mesajını göreceksiniz.
 
 ## Dosya Yapısı
-`main.py`: Flask tabanlı web uygulaması.
-`requirements.txt`: Projenin bağımlılıklarını listeleyen dosya (isteğe bağlı).
-`README.md`: Proje hakkında bilgi veren dosya.
+- `main.py`: Flask tabanlı web uygulaması.
+- `requirements.txt`: Projenin bağımlılıklarını listeleyen dosya (isteğe bağlı).
+- `README.md`: Proje hakkında bilgi veren dosya.
 
 ## Örnek Kullanım
 
